@@ -1,1 +1,25 @@
 # The first XML file
+<?xml version="1.0" encoding="UTF-8" ?>
+<headphone>
+  <headphone>
+    <devicename>focal</devicename>
+    <devicestyle>open back headphone</devicestyle>
+    <quality>medium quality build</quality>
+    <imaging>excellent</imaging>
+    <soundprofile>v shaped sound</soundprofile>
+  </headphone>
+  <headphone>
+    <devicename>bose</devicename>
+    <devicestyle>closed back headphone</devicestyle>
+    <quality>premium quality build</qualtity>
+    <imaging>average</imaging>
+    <soundprofile>neutral sound</soundprofile>
+  </headphone>
+  <headphone>
+    <devicename>hifiman</devicename>
+    <devicestyle>in ear monitor</devicestyle>
+    <quality>high quality build</quality>
+    <imaging>normal</imaging>
+    <soundprofile>bassy sound</soundprofile
+  </headphone>
+</headphone>
