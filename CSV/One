@@ -1,1 +1,6 @@
 # My first CSV
+'hour', 'day', 'week', 'month'
+'ones', 'tens', 'hundreds', 'thousands'
+'username', 'identifier', 'First Name', 'Last Name'
+
+# add this 'street address', 'city', 'state', 'zip code'
