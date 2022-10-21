@@ -1,1 +1,10 @@
 # My first YAML file
+---
+- headphone:
+      - devicename: seenheiser
+      - devicestayle: open back headphone
+      - quality: medium quility build 
+      - imaging: 
+          - very narrow
+          - good soundstage
+          - good sonic
