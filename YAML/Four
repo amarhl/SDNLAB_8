@@ -2,20 +2,20 @@
 headphone:
       devicename: sennheiser
       devicestyle: open back headphone
-      quality: medium quility build 
+      quality: medium quality build 
       imaging: 
             very narrow
             good soundstage
             good sonic
       devicename: focal
-      devicestyle: open back headphon
+      devicestyle: open back headphone
       quality: medium quality
       imaging:
             accurate
             wide soundstage
             excellent
       device name: bose
-      devicestyle: closed back headphon
+      devicestyle: closed back headphone
       quality: premium quality build
       imaging:
             pin point 
