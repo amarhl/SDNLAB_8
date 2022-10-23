@@ -1,1 +1,26 @@
 # My first JSON file
+{
+  "headphone": [
+      {
+          "device name": "Sennheiser",
+          "device style": "open back headphone",
+          "quality": "medium quality build",
+          "imaging": "excellent",
+          "soundprofile": "v shaped sound"
+      },
+      {
+          "device name": "Bose",
+          "device style": "closed back headphone",
+          "quality": "premium quality build",
+          "imaging": "average",
+          "soundprofile": "neutral sound"
+      },
+      {
+          "device name": "Hifiman",
+          "device style": "in ear monitor",
+          "quality": "high quality build",
+          "imaging": "normal",
+          "soundprofile": "bassy sound"
+      }
+  ]
+}
