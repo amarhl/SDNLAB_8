@@ -1,4 +1,3 @@
-# The first XML file
 <?xml version="1.0" encoding="UTF-8" ?>
 <headphone>
   <headphone>
@@ -11,7 +10,7 @@
   <headphone>
     <devicename>bose</devicename>
     <devicestyle>closed back headphone</devicestyle>
-    <quality>premium quality build</qualtity>
+    <quality>premium quality build</quality>
     <imaging>average</imaging>
     <soundprofile>neutral sound</soundprofile>
   </headphone>
